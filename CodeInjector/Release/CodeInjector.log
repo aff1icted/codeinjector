@@ -1,1 +1,7 @@
-﻿  CodeInjector.vcxproj -> C:\Users\Afflicted\Desktop\time\CodeInjector\Release\CodeInjector.exe
+﻿  CodeInjector.cpp
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\hijacking.h(25): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\hijacking.h(25): warning C4309: инициализация: усечение константного значения
+  Создание кода
+  All 54 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CodeInjector.vcxproj -> C:\Users\Afflicted\Desktop\time\CodeInjector\Release\CodeInjector.exe

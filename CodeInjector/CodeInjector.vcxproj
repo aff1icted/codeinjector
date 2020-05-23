@@ -153,6 +153,11 @@
   <ItemGroup>
     <ClCompile Include="CodeInjector.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ainjecror.h" />
+    <ClInclude Include="Inject.h" />
+    <ClInclude Include="Hijacking.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

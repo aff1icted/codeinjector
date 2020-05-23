@@ -1,2 +1,13 @@
 ﻿  CodeInjector.cpp
-  CodeInjector.vcxproj -> C:\Users\Afflicted\Desktop\time\CodeInjector\x64\Debug\CodeInjector.exe
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(22): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(22): warning C4309: инициализация: усечение константного значения
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(142): warning C4311: приведение типов: усечение указателя из "HMODULE (__cdecl *)(LPCSTR)" в "DWORD"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(142): warning C4302: приведение типов: усечение из "HMODULE (__cdecl *)(LPCSTR)" к "DWORD"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(146): error C2039: Eip: не является членом "_CONTEXT"
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(3886): note:  см. объявление "_CONTEXT"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(171): error C2039: Eip: не является членом "_CONTEXT"
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(3886): note:  см. объявление "_CONTEXT"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(171): warning C4311: приведение типов: усечение указателя из "PVOID" в "DWORD"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(171): warning C4302: приведение типов: усечение из "PVOID" к "DWORD"
+c:\users\afflicted\desktop\time\codeinjector\codeinjector\codeinjector.cpp(157): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note:  см. объявление "strcpy"
